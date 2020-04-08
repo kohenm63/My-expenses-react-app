@@ -1,0 +1,35 @@
+.add-bill-container{
+    display: block;
+    margin: auto;
+    width: 75%;
+    
+   
+}
+
+.add-bill-form-control{
+    display: flexbox;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: large;
+}
+.btn{
+    display: block;
+    width: 100%;
+    border: gray;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: rgb(185, 87, 120);
+    color: papayawhip;
+    height: 200px;
+    font-size: 40px;
+    width: 200px;
+
+}
+.btn:hover{
+    background-color: rgb(253, 230, 101);
+    color: purple;
+}
+

@@ -1,0 +1,27 @@
+.bill-total-container{
+    background-color: rgb(255, 174, 12);
+ padding: 20px;
+     width: 75%;
+   margin: auto;
+   margin-top: 20px;
+  border-color: ivory;
+   border-radius: 10px;
+   font-size: 30px;
+
+   font-family: 'Quicksand', sans-serif;
+   color:rgb(93, 79, 56);
+
+}
+
+.total-saved-container{
+    background-color: rgb(255, 121, 12);
+    padding: 20px;
+        width: 75%;
+      margin: auto;
+      margin-top: 20px;
+     border-color: ivory;
+      border-radius: 10px;
+      font-size: 30px;
+   
+      font-family: 'Quicksand', sans-serif; 
+}

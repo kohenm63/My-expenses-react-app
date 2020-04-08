@@ -1,0 +1,35 @@
+.bill-list-container{
+background-color: rgba(117, 110, 96, 0.7);
+ padding: 20px;
+     width: 75%;
+   margin: auto;
+  border-color: ivory;
+   border-radius: 10px;
+   font-size: 30px;
+   font-family: 'Quicksand', sans-serif;
+   color:white;
+  
+  
+  
+}
+.bill-list-row{
+    display: block;
+    padding: 20px;
+}
+.bill-list-row-content{
+    display: inline-block;
+}
+.edit-mode-btn{
+     margin-left: 80%;
+    background-color: #d32222b3;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    text-align: center;
+    padding: 7px;
+}
+.edit-mode-btn:hover{
+    background-color: yellow;
+    color: purple;
+}
